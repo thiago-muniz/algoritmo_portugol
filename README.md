@@ -1,2 +1,2 @@
 # algoritmo_portugol
-Repositório de exemplos de algoritmos utilizando a linguagem portugol
+Repositório de estudo, com exemplos de algoritmos utilizando a linguagem portugol.
